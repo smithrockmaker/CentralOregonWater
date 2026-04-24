@@ -22,3 +22,6 @@ site:
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+
+
+ /${{ github.event.repository.name }}
