@@ -1,3 +1,7 @@
+---
+title: Cipoletti Weirs
+
+---
 ## Gauge Staff
 
 In general a scale used to measure the height of the head (the distance above the crest of the weir plate) is supposed to be a distance of at least 4 head heights upstream of the crest and in calm water. Not surprisingly this is a pain to set up except with a permanent gauge stick planted in the irrigation ditch. More commonly a gauge staff is used to directly measure the height of the head directly at the crest by standing the staff on the crest facing upstream.
@@ -15,7 +19,7 @@ Below is an image of the gauge plate used by some of the COID ditch riders which
 USBR Gauge Plate for reference. Used by COID Ditch Rider 6/25 
 ```
 
-At the left is a simple inch scale and to the center and right are two scales that are intended to indicate flow over the weir in ft$^3/$sec. [](https://doi.org/10.1061/(ASCE)IR.1943-4774.0001652) [](https://doi.org/10.1061/JIDEDH.IRENG-10027)
+At the left is a simple inch scale and to the center and right are two scales that are intended to indicate flow over the weir in ft$^3/$sec.
 
 ```{figure} ../Images/CipolettiTable.png
 :label: USBR Gauge Plate from COID
@@ -25,3 +29,9 @@ At the left is a simple inch scale and to the center and right are two scales th
 
 USBR Gauge Plate for reference. Used by COID Ditch Rider 6/25 
 ```
+
+[](https://doi.org/10.1061/JIDEDH.IRENG-10027) 
+
+[](https://doi.org/10.1061/(ASCE)IR.1943-4774.0001652)
+
+[Theory of Weirs: Class Notes- Sergio Maldonado](https://sergio-maldonado.github.io/teaching.html)

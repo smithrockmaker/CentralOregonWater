@@ -8,6 +8,8 @@ project:
   # authors: []
   abbreviations:
     WMM: Water Measurement Manual
+  bibliography:
+    - references.bib
   github: https://github.com/smithrockmaker/CentralOregonWater
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
@@ -21,9 +23,11 @@ project:
         - file: Measure/MeasurementBasic.md
         - file: Measure/Cipoletti.md
         - file: Measure/WeirTheory.md
-    
+        
+
 site:
   template: book-theme
+  hide_title_block: true
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
