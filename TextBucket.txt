@@ -1,27 +1,23 @@
-This 
-
-# Jupyter Book (via myst) base configuration
-extends:
-- https://jupyterbook.org/myst.1.yaml
-
-project:
-  id: a3a522ff-3de6-49b4-afd5-eb1816fabafe
-  title: Central Oregon Water Issues
-  description: My collection of material that informs my work around water and irrigation in CO
-  # keywords: []
-  # authors: []
-  github: https://github.com/smithrockmaker/CentralOregonWater
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc" -- this didn't work for me
-  toc:
-    - file: COWater.md
-    - file: Intro/Intro.md
-    - file: Measure/MeasurementBasic.md
-    
-site:
-  template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+@article{sinclair2022insights,
+    author={Sinclair, Venayagomoorthy, Gates},
+  	title={Some Insights into Flow Over Sharp-Crested Weirs},
+  	journal={Journal of Irrigation and Drainage Engineering},
+  	volume={148},
+  	number={6},
+  	month={Jan},
+  	year={2022}
+    doi = {10.1061/(ASCE)IR.1943-4774.0001652}
+}
 
 
- /${{ github.event.repository.name }}
+@mastersthesis{Sinclair2021FlowSharpCrested,
+  title        = {New Insight into Flow Over Sharp-Crested and Pivot Weirs using Computation Fluid Dynamics},
+  author       = {Joseph Sinclair},
+  year         = {2021},
+  month        = {Summer},
+  address      = {Fort Collins, CO},
+  note         = {Available at https://github.com/smithrockmaker/CentralOregonWater/blob/main/Docs/Sinclair_colostate_0053N_16674.pdf},
+  school       = {Colorado State University},
+  type         = {Master's thesis}
+}
+

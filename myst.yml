@@ -18,11 +18,15 @@ project:
     - title: Big Picture
       children:
         - file: Intro/Intro.md
+        - file: Intro/acreFeet.md
     - title: Measure
       children:
         - file: Measure/MeasurementBasic.md
         - file: Measure/Cipoletti.md
         - file: Measure/WeirTheory.md
+    - title: Data
+      children:
+        - file: Data/J6Data.ipynb
         
 
 site:
